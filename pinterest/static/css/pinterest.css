@@ -1,0 +1,9 @@
+/* CSS for PinterestXBlock */
+
+.pinterest_block .count {
+    font-weight: bold;
+}
+
+.pinterest_block p {
+    cursor: pointer;
+}
